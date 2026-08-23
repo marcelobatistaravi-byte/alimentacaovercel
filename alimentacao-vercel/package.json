@@ -1,0 +1,12 @@
+{
+  "name": "alimentacao-custodiados",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de Controle de Alimentação para Custodiados — Delegacia de Polícia de Sinop",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
