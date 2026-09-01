@@ -1,9 +1,3 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://alimentacao-ctaccmay.manus.space/dashboard",
-      "permanent": false
-    }
-  ]
+  
 }
