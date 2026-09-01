@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://alimentacao-ctaccmay.manus.space/dashboard",
+      "destination": "alimentacaovercel.vercel.app",
       "permanent": false
     }
   ]
